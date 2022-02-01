@@ -6,6 +6,8 @@ https://github.com/alu0101225364/ADBD/tree/main/PracticaArquitectos
 
 <h2> PROYECTO FINAL DE LA ASIGNATURA</h2>
 
+Hemos utlizado <b>MariaDB<b> para la creación de la base de datos.
+
 Enlace al documento de requisitos: https://github.com/alu0101225364/ADBD/blob/main/Requisitos.docx%20(3).pdf
 
 Enlace al documento del diagrama Entidad Relación: https://github.com/alu0101225364/ADBD/blob/main/ERE_Proyecto%20(1).pdf
